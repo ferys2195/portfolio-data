@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Web Ruang PPID",
+      "projectType": "client",
       "image": "https://ik.imagekit.io/mafhi/portfolio/ruang-ppid.png",
       "category": "Government",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
@@ -20,6 +21,7 @@
     {
       "id": 2,
       "name": "School Management System",
+      "projectType": "client",
       "image": "https://placehold.co/600x400/059669/ffffff?text=School+Management+System",
       "category": "Education",
       "organization": "SDIT Imam Syafii Sampit",
@@ -34,6 +36,7 @@
     {
       "id": 3,
       "name": "REST API & Government Web System",
+      "projectType": "client",
       "category": "Government",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
       "period": "Apr 2023 – Jun 2023",
@@ -47,6 +50,7 @@
     {
       "id": 4,
       "name": "Queue Management REST API",
+      "projectType": "client",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
       "period": "Sep 2022 – Dec 2022",
@@ -60,6 +64,7 @@
     {
       "id": 5,
       "name": "Public Information Web Portals (Rebuild)",
+      "projectType": "client",
       "image": "https://placehold.co/600x400/7c3aed/ffffff?text=Public+Information+Web+Portals",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
@@ -74,6 +79,7 @@
     {
       "id": 6,
       "name": "Public Information Web Portals",
+      "projectType": "client",
       "image": "https://placehold.co/600x400/dc2626/ffffff?text=Public+Information+Web+Portals",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
@@ -88,6 +94,7 @@
     {
       "id": 7,
       "name": "Customs Administration System",
+      "projectType": "client",
       "image": "https://placehold.co/600x400/d97706/ffffff?text=Customs+Administration+System",
       "category": "Internal System",
       "organization": "KPPBC TMP C Sampit",
@@ -98,6 +105,84 @@
         "Membangun fitur-fitur untuk pengelolaan dokumen dan administrasi"
       ],
       "tech": ["PHP Native", "MySQL", "CSS"]
+    },
+    {
+      "id": 8,
+      "name": "feryirawan.com",
+      "projectType": "personal",
+      "image": "",
+      "category": "Portfolio Website",
+      "organization": "",
+      "period": "2026",
+      "description": "Personal portfolio website built with Next.js 16 App Router, React 19, and Tailwind CSS v4. Features server components, i18n (EN/ID), dark mode, and shadcn/ui components.",
+      "highlights": [
+        "Arsitektur feature-based dengan Server Components secara default",
+        "Multi-language support (Inggris & Indonesia) via next-intl",
+        "Dark mode toggle dengan persistensi localStorage",
+        "Fetch data dari GitHub Pages static JSON API"
+      ],
+      "tech": ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "shadcn/ui", "next-intl"],
+      "links": {
+        "demo": "https://feryirawan.com",
+        "source": "https://github.com/ferys2195/feryirawan.com"
+      }
+    },
+    {
+      "id": 9,
+      "name": "GPX Tool",
+      "projectType": "personal",
+      "image": "",
+      "category": "GIS Tool",
+      "organization": "",
+      "period": "2026",
+      "description": "A web-based utility for viewing GPX files, managing waypoints, and measuring land area. Supports interactive marker placement and UTM coordinate input — like MapSource, but on the web.",
+      "highlights": [
+        "Interactive map untuk visualisasi GPX tracks & waypoints",
+        "Pengukuran luas lahan dengan kalkulasi koordinat UTM",
+        "Marker placement interaktif untuk input data spasial"
+      ],
+      "tech": ["TypeScript", "React", "Leaflet", "CSS"],
+      "links": {
+        "source": "https://github.com/ferys2195/gpx-tool"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sliding Puzzle Game",
+      "projectType": "personal",
+      "image": "",
+      "category": "Game",
+      "organization": "",
+      "period": "2026",
+      "description": "A simple yet engaging sliding puzzle game to train your logic thinking. Features multiple difficulty levels and smooth tile animations.",
+      "highlights": [
+        "Multiple difficulty levels untuk berbagai tingkat kemampuan",
+        "Animasi tile yang halus untuk UX yang menyenangkan",
+        "Logika game fully client-side dengan state management"
+      ],
+      "tech": ["TypeScript", "React", "CSS"],
+      "links": {
+        "source": "https://github.com/ferys2195/sliding-puzzle-game"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Simple Resume",
+      "projectType": "personal",
+      "image": "",
+      "category": "Resume Website",
+      "organization": "",
+      "period": "2026",
+      "description": "A clean, responsive personal resume website built with Next.js, Tailwind CSS, and shadcn/ui components. Designed to be easily customizable and ready to deploy.",
+      "highlights": [
+        "Desain responsif dan minimalis dengan Tailwind CSS",
+        "Komponen UI di-built dengan shadcn/ui untuk konsistensi",
+        "Mudah dikustomisasi untuk berbagai profil profesional"
+      ],
+      "tech": ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+      "links": {
+        "source": "https://github.com/ferys2195/simple-resume"
+      }
     }
   ]
 }
