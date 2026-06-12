@@ -121,7 +121,14 @@
         "Dark mode toggle dengan persistensi localStorage",
         "Fetch data dari GitHub Pages static JSON API"
       ],
-      "tech": ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "shadcn/ui", "next-intl"],
+      "tech": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Tailwind CSS v4",
+        "shadcn/ui",
+        "next-intl"
+      ],
       "links": {
         "demo": "https://feryirawan.com",
         "source": "https://github.com/ferys2195/feryirawan.com"
@@ -143,6 +150,7 @@
       ],
       "tech": ["TypeScript", "React", "Leaflet", "CSS"],
       "links": {
+        "demo": "https://gpx-tool.vercel.app",
         "source": "https://github.com/ferys2195/gpx-tool"
       }
     },
@@ -162,6 +170,7 @@
       ],
       "tech": ["TypeScript", "React", "CSS"],
       "links": {
+        "demo": "https://ferys2195.github.io/sliding-puzzle-game/",
         "source": "https://github.com/ferys2195/sliding-puzzle-game"
       }
     },
@@ -183,6 +192,34 @@
       "links": {
         "demo": "https://simple-resume-cyan.vercel.app",
         "source": "https://github.com/ferys2195/simple-resume"
+      }
+    },
+    {
+      "id": 11,
+      "name": "English Conversation Partner",
+      "projectType": "personal",
+      "image": "https://ik.imagekit.io/mafhi/portfolio/ecp-mazafathi.jpeg",
+      "category": "Language Learning",
+      "organization": "",
+      "period": "2026",
+      "description": "An AI-powered English conversation practice app that lets users interact as if speaking with a native partner. Supports both text chat and voice input, with natural text and voice responses.",
+      "highlights": [
+        "Conversation input via text (chat) or voice",
+        "AI responses in both text and voice (text-to-speech)",
+        "Natural two-way interaction like talking with a native speaker"
+      ],
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "LLM API",
+        "Web Speech API",
+        "Edge TTS API"
+      ],
+      "links": {
+        "demo": "https://ecp.mazafathi.com",
+        "source": "https://github.com/ferys2195/ecp-frontend"
       }
     }
   ]
