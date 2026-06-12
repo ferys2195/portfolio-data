@@ -169,7 +169,7 @@
       "id": 11,
       "name": "Simple Resume",
       "projectType": "personal",
-      "image": "https://ik.imagekit.io/mafhi/portfolio/cv-fery.jpeg",
+      "image": "https://ik.imagekit.io/mafhi/portfolio/cv-fery.png",
       "category": "Resume Website",
       "organization": "",
       "period": "2026",
@@ -181,6 +181,7 @@
       ],
       "tech": ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
       "links": {
+        "demo": "https://simple-resume-cyan.vercel.app",
         "source": "https://github.com/ferys2195/simple-resume"
       }
     }
