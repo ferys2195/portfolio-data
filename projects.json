@@ -221,6 +221,37 @@
         "demo": "https://ecp.mazafathi.com",
         "source": "https://github.com/ferys2195/ecp-frontend"
       }
+    },
+    {
+      "id": 13,
+      "name": "Persil Desa",
+      "projectType": "personal",
+      "image": "",
+      "category": "Land Administration & GIS System",
+      "organization": "",
+      "period": "2025",
+      "description": "A web-based land administration system designed to help village governments manage land ownership records, land parcels, ownership history, and spatial land data in a centralized platform. The system integrates GIS-based mapping to visualize land parcel locations and improve data accessibility, transparency, and administrative efficiency.",
+      "highlights": [
+        "Manajemen data bidang tanah dan pemilik tanah secara terpusat",
+        "Pencatatan riwayat kepemilikan dan mutasi tanah",
+        "Visualisasi bidang tanah berbasis GIS pada peta interaktif",
+        "Pengelolaan dokumen pendukung pertanahan secara digital",
+        "Pencarian dan validasi data pertanahan yang cepat",
+        "Dashboard administratif untuk monitoring data pertanahan desa",
+        "Integrasi OpenStreetMap dan GeoJSON untuk representasi spasial"
+      ],
+      "tech": [
+        "Laravel",
+        "Inertia.js",
+        "React",
+        "TypeScript",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "MySQL",
+        "Leaflet",
+        "OpenStreetMap",
+        "GeoJSON"
+      ]
     }
   ]
 }
