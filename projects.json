@@ -7,7 +7,7 @@
       "image": "https://ik.imagekit.io/mafhi/portfolio/ruang-ppid.png",
       "category": "Government",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
-      "period": "Sep 2025 – Nov 2025",
+      "period": "Sep 2025 â€“ Nov 2025",
       "description": "Platform layanan informasi publik untuk mendukung transparansi pemerintahan.",
       "highlights": [
         "Membangun platform layanan informasi publik menggunakan teknologi modern",
@@ -16,7 +16,9 @@
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "links": {
         "demo": "https://ppid.disdukcapil.kalteng.go.id"
-      }
+      },
+      "is_pin": true,
+      "sort_order": 1
     },
     {
       "id": 2,
@@ -25,14 +27,16 @@
       "image": "https://ik.imagekit.io/mafhi/portfolio/app-imam-syafii.png",
       "category": "Education",
       "organization": "Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit",
-      "period": "Mar 2025 – Jul 2025",
+      "period": "Mar 2025 â€“ Jul 2025",
       "description": "Sistem manajemen sekolah untuk penempatan siswa dan administrasi akademik.",
       "highlights": [
         "Mengembangkan sistem manajemen sekolah untuk penempatan siswa dan administrasi akademik",
         "Mengelola kegiatan pembelajaran halaqah siswa",
         "Impact terlihat dari kemudahan orang tua dalam memantau perkembangan akademik anak-anak mereka melalui fitur laporan dan notifikasi"
       ],
-      "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"]
+      "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
+      "is_pin": false,
+      "sort_order": 2
     },
     {
       "id": 3,
@@ -49,7 +53,9 @@
       "tech": ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
       "links": {
         "demo": "https://www.imamsyafiisampit.sch.id"
-      }
+      },
+      "is_pin": false,
+      "sort_order": 3
     },
     {
       "id": 4,
@@ -57,13 +63,15 @@
       "projectType": "client",
       "category": "Government",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
-      "period": "Apr 2023 – Jun 2023",
+      "period": "Apr 2023 â€“ Jun 2023",
       "description": "Layanan REST API untuk mendukung aplikasi administratif pemerintahan.",
       "highlights": [
         "Membangun layanan REST API untuk mendukung aplikasi administratif pemerintahan",
         "Mengembangkan backend services untuk pertukaran data antar sistem pemerintahan"
       ],
-      "tech": ["Laravel", "REST API", "MySQL"]
+      "tech": ["Laravel", "REST API", "MySQL"],
+      "is_pin": false,
+      "sort_order": 4
     },
     {
       "id": 5,
@@ -71,13 +79,15 @@
       "projectType": "client",
       "category": "Government",
       "organization": "Mall Pelayanan Publik Kabupaten Kotawaringin Timur",
-      "period": "Sep 2022 – Dec 2022",
+      "period": "Sep 2022 â€“ Dec 2022",
       "description": "Layanan REST API untuk sistem manajemen antrian pelayanan publik.",
       "highlights": [
         "Membangun layanan REST API untuk sistem manajemen antrian pengunjung",
         "Mengembangkan backend services untuk menangani antrian permintaan layanan publik"
       ],
-      "tech": ["Laravel", "REST API", "MySQL"]
+      "tech": ["Laravel", "REST API", "MySQL"],
+      "is_pin": false,
+      "sort_order": 5
     },
     {
       "id": 6,
@@ -86,13 +96,15 @@
       "image": "https://placehold.co/600x400/7c3aed/ffffff?text=Public+Information+Web+Portals",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
-      "period": "Jan 2022 – May 2022",
+      "period": "Jan 2022 â€“ May 2022",
       "description": "Membangun ulang website layanan pemerintahan menggunakan framework Laravel.",
       "highlights": [
         "Membangun ulang website layanan pemerintahan menggunakan framework Laravel",
         "Mengimplementasikan modul administrasi untuk perizinan dan manajemen layanan"
       ],
-      "tech": ["Laravel", "MySQL", "Bootstrap"]
+      "tech": ["Laravel", "MySQL", "Bootstrap"],
+      "is_pin": false,
+      "sort_order": 6
     },
     {
       "id": 7,
@@ -101,13 +113,15 @@
       "image": "https://placehold.co/600x400/dc2626/ffffff?text=Public+Information+Web+Portals",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
-      "period": "Sep 2019 – Dec 2019",
+      "period": "Sep 2019 â€“ Dec 2019",
       "description": "Web portal layanan publik dengan framework Codeigniter.",
       "highlights": [
         "Membangun web portal layanan publik menggunakan framework Codeigniter",
         "Mengimplementasikan fitur portal yang memudahkan akses informasi publik"
       ],
-      "tech": ["Codeigniter 3", "MySQL", "Bootstrap"]
+      "tech": ["Codeigniter 3", "MySQL", "Bootstrap"],
+      "is_pin": false,
+      "sort_order": 7
     },
     {
       "id": 9,
@@ -135,7 +149,9 @@
       "links": {
         "demo": "https://feryirawan.com",
         "source": "https://github.com/ferys2195/feryirawan.com"
-      }
+      },
+      "is_pin": false,
+      "sort_order": 8
     },
     {
       "id": 10,
@@ -145,7 +161,7 @@
       "category": "GIS Tool",
       "organization": "",
       "period": "2026",
-      "description": "A web-based utility for viewing GPX files, managing waypoints, and measuring land area. Supports interactive marker placement and UTM coordinate input — like MapSource, but on the web.",
+      "description": "A web-based utility for viewing GPX files, managing waypoints, and measuring land area. Supports interactive marker placement and UTM coordinate input â€” like MapSource, but on the web.",
       "highlights": [
         "Interactive map untuk visualisasi GPX tracks & waypoints",
         "Pengukuran luas lahan dengan kalkulasi koordinat UTM",
@@ -155,7 +171,9 @@
       "links": {
         "demo": "https://gpx-tool.vercel.app",
         "source": "https://github.com/ferys2195/gpx-tool"
-      }
+      },
+      "is_pin": false,
+      "sort_order": 9
     },
     {
       "id": 11,
@@ -175,7 +193,9 @@
       "links": {
         "demo": "https://ferys2195.github.io/sliding-puzzle-game/",
         "source": "https://github.com/ferys2195/sliding-puzzle-game"
-      }
+      },
+      "is_pin": false,
+      "sort_order": 10
     },
     {
       "id": 12,
@@ -195,7 +215,9 @@
       "links": {
         "demo": "https://simple-resume-cyan.vercel.app",
         "source": "https://github.com/ferys2195/simple-resume"
-      }
+      },
+      "is_pin": false,
+      "sort_order": 11
     },
     {
       "id": 13,
@@ -222,7 +244,9 @@
         "MySQL",
         "React Query",
         "Framer Motion"
-      ]
+      ],
+      "is_pin": true,
+      "sort_order": 12
     },
     {
       "id": 14,
@@ -250,7 +274,9 @@
       "links": {
         "demo": "https://ecp.mazafathi.com",
         "source": "https://github.com/ferys2195/ecp-frontend"
-      }
+      },
+      "is_pin": true,
+      "sort_order": 13
     },
     {
       "id": 15,
@@ -281,7 +307,9 @@
         "Leaflet",
         "OpenStreetMap",
         "GeoJSON"
-      ]
+      ],
+      "is_pin": false,
+      "sort_order": 14
     }
   ]
 }
