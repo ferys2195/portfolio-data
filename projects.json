@@ -205,7 +205,7 @@
       "category": "Full-Stack Web App",
       "organization": "",
       "period": "2026",
-      "description": "A personal finance management app using the envelope budgeting system. Built with Laravel 11 API backend and Next.js 16 frontend, featuring pocket-based budgeting, transaction tracking, debts/receivables management, and interactive financial reports with charts.",
+      "description": "A personal finance management app using the envelope budgeting system. Featuring pocket-based budgeting, transaction tracking, debts/receivables management, and interactive financial reports with charts.",
       "highlights": [
         "Sistem envelope budgeting dengan 6 tipe pocket (Personal, Bisnis, Tabungan, Goals, Hutang, Piutang)",
         "Fitur transfer antar pocket yang menjaga total saldo tetap akurat",
