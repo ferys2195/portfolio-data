@@ -5,13 +5,13 @@
       "name": "Web Ruang PPID",
       "projectType": "client",
       "image": "https://ik.imagekit.io/mafhi/portfolio/ruang-ppid.png",
-      "category": "Government",
+      "category": "Pemerintahan",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
-      "period": "Sep 2025 â€“ Nov 2025",
-      "description": "Public information service platform to support government transparency.",
+      "period": "Sep 2025 – Nov 2025",
+      "description": "Platform layanan informasi publik untuk mendukung transparansi pemerintahan.",
       "highlights": [
-        "Built a public information service platform using modern technology",
-        "Implemented backend features for content management and public information"
+        "Membangun platform layanan informasi publik menggunakan teknologi modern",
+        "Mengimplementasikan fitur backend untuk manajemen konten dan informasi publik"
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "links": {
@@ -25,14 +25,14 @@
       "name": "School Management System",
       "projectType": "client",
       "image": "https://ik.imagekit.io/mafhi/portfolio/app-imam-syafii.png",
-      "category": "Education",
+      "category": "Pendidikan",
       "organization": "Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit",
-      "period": "Mar 2025 â€“ Jul 2025",
-      "description": "School management system for student placement and academic administration.",
+      "period": "Mar 2025 – Jul 2025",
+      "description": "Sistem manajemen sekolah untuk penempatan siswa dan administrasi akademik.",
       "highlights": [
-        "Developed a school management system for student placement and academic administration",
-        "Managed student halaqah learning activities",
-        "Impact is evident from the ease of parents in monitoring their children's academic progress through report and notification features"
+        "Mengembangkan sistem manajemen sekolah untuk penempatan siswa dan administrasi akademik",
+        "Mengelola kegiatan pembelajaran halaqah siswa",
+        "Dampak terlihat dari kemudahan orang tua dalam memantau perkembangan akademik anak-anak mereka melalui fitur laporan dan notifikasi"
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "is_pin": false,
@@ -43,12 +43,12 @@
       "name": "Web Imam Syafii Sampit",
       "projectType": "client",
       "image": "https://ik.imagekit.io/mafhi/portfolio/company-profile-imam-syafii-sampit.png",
-      "category": "Corporate Website",
+      "category": "Website Korporat",
       "organization": "Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit",
       "period": "2025",
-      "description": "Company profile website for Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit.",
+      "description": "Website profil Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit.",
       "highlights": [
-        "Built a company profile website for Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit"
+        "Membangun website profil untuk Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit"
       ],
       "tech": ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
       "links": {
@@ -61,13 +61,13 @@
       "id": 4,
       "name": "REST API & Government Web System",
       "projectType": "client",
-      "category": "Government",
+      "category": "Pemerintahan",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
-      "period": "Apr 2023 â€“ Jun 2023",
-      "description": "REST API service to support government administrative applications.",
+      "period": "Apr 2023 – Jun 2023",
+      "description": "Layanan REST API untuk mendukung aplikasi administratif pemerintahan.",
       "highlights": [
-        "Built REST API services to support government administrative applications",
-        "Developed backend services for inter-system data exchange in government"
+        "Membangun layanan REST API untuk mendukung aplikasi administratif pemerintahan",
+        "Mengembangkan backend services untuk pertukaran data antar sistem pemerintahan"
       ],
       "tech": ["Laravel", "REST API", "MySQL"],
       "is_pin": false,
@@ -77,13 +77,13 @@
       "id": 5,
       "name": "Queue Management REST API",
       "projectType": "client",
-      "category": "Government",
+      "category": "Pemerintahan",
       "organization": "Mall Pelayanan Publik Kabupaten Kotawaringin Timur",
-      "period": "Sep 2022 â€“ Dec 2022",
-      "description": "REST API service for public service queue management system.",
+      "period": "Sep 2022 – Dec 2022",
+      "description": "Layanan REST API untuk sistem manajemen antrian pelayanan publik.",
       "highlights": [
-        "Built REST API services for visitor queue management system",
-        "Developed backend services to handle public service request queues"
+        "Membangun layanan REST API untuk sistem manajemen antrian pengunjung",
+        "Mengembangkan backend services untuk menangani antrian permintaan layanan publik"
       ],
       "tech": ["Laravel", "REST API", "MySQL"],
       "is_pin": false,
@@ -94,13 +94,13 @@
       "name": "Public Information Web Portals (Rebuild)",
       "projectType": "client",
       "image": "https://placehold.co/600x400/7c3aed/ffffff?text=Public+Information+Web+Portals",
-      "category": "Government",
+      "category": "Pemerintahan",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
-      "period": "Jan 2022 â€“ May 2022",
-      "description": "Rebuilt government service website using Laravel framework.",
+      "period": "Jan 2022 – May 2022",
+      "description": "Membangun ulang website layanan pemerintahan menggunakan framework Laravel.",
       "highlights": [
-        "Rebuilt government service website using Laravel framework",
-        "Implemented administrative modules for licensing and service management"
+        "Membangun ulang website layanan pemerintahan menggunakan framework Laravel",
+        "Mengimplementasikan modul administrasi untuk perizinan dan manajemen layanan"
       ],
       "tech": ["Laravel", "MySQL", "Bootstrap"],
       "is_pin": false,
@@ -111,13 +111,13 @@
       "name": "Public Information Web Portals",
       "projectType": "client",
       "image": "https://placehold.co/600x400/dc2626/ffffff?text=Public+Information+Web+Portals",
-      "category": "Government",
+      "category": "Pemerintahan",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
-      "period": "Sep 2019 â€“ Dec 2019",
-      "description": "Public service web portal using Codeigniter framework.",
+      "period": "Sep 2019 – Dec 2019",
+      "description": "Portal web layanan publik dengan framework Codeigniter.",
       "highlights": [
-        "Built public service web portal using Codeigniter framework",
-        "Implemented portal features that facilitate access to public information"
+        "Membangun portal web layanan publik menggunakan framework Codeigniter",
+        "Mengimplementasikan fitur portal yang memudahkan akses informasi publik"
       ],
       "tech": ["Codeigniter 3", "MySQL", "Bootstrap"],
       "is_pin": false,
@@ -131,12 +131,12 @@
       "category": "Portfolio",
       "organization": "",
       "period": "2026",
-      "description": "Personal portfolio website built with Next.js 16 App Router, React 19, and Tailwind CSS v4. Features server components, i18n (EN/ID), dark mode, and shadcn/ui components.",
+      "description": "Website portfolio pribadi yang dibangun dengan Next.js 16 App Router, React 19, dan Tailwind CSS v4. Fitur server components, i18n (EN/ID), dark mode, dan komponen shadcn/ui.",
       "highlights": [
-        "Feature-based architecture with Server Components by default",
-        "Multi-language support (English & Indonesian) via next-intl",
-        "Dark mode toggle with localStorage persistence",
-        "Fetch data from GitHub Pages static JSON API"
+        "Arsitektur feature-based dengan Server Components secara default",
+        "Multi-language support (Inggris & Indonesia) via next-intl",
+        "Dark mode toggle dengan persistensi localStorage",
+        "Fetch data dari GitHub Pages static JSON API"
       ],
       "tech": [
         "Next.js 16",
@@ -158,14 +158,14 @@
       "name": "GPX Tool",
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/gpx-tools.png",
-      "category": "GIS & Mapping",
+      "category": "GIS & Pemetaan",
       "organization": "",
       "period": "2026",
-      "description": "A web-based utility for viewing GPX files, managing waypoints, and measuring land area. Supports interactive marker placement and UTM coordinate input â€” like MapSource, but on the web.",
+      "description": "Utilitas berbasis web untuk melihat file GPX, mengelola waypoint, dan mengukur luas lahan. Mendukung penempatan marker interaktif dan input koordinat UTM – seperti MapSource, tetapi di web.",
       "highlights": [
-        "Interactive map for GPX tracks & waypoints visualization",
-        "Land area measurement with UTM coordinate calculation",
-        "Interactive marker placement for spatial data input"
+        "Peta interaktif untuk visualisasi GPX tracks & waypoints",
+        "Pengukuran luas lahan dengan kalkulasi koordinat UTM",
+        "Penempatan marker interaktif untuk input data spasial"
       ],
       "tech": ["TypeScript", "React", "Leaflet", "CSS"],
       "links": {
@@ -180,14 +180,14 @@
       "name": "Sliding Puzzle Game",
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/game-sliding-puzzle.png",
-      "category": "Game",
+      "category": "Permainan",
       "organization": "",
       "period": "2026",
-      "description": "A simple yet engaging sliding puzzle game to train your logic thinking. Features multiple difficulty levels and smooth tile animations.",
+      "description": "Game sliding puzzle yang sederhana namun menarik untuk melatih pemikiran logis Anda. Fitur multiple difficulty levels dan animasi tile yang halus.",
       "highlights": [
-        "Multiple difficulty levels for various skill levels",
-        "Smooth tile animations for a pleasant user experience",
-        "Game logic fully client-side with state management"
+        "Multiple difficulty levels untuk berbagai tingkat kemampuan",
+        "Animasi tile yang halus untuk UX yang menyenangkan",
+        "Logika game fully client-side dengan state management"
       ],
       "tech": ["TypeScript", "React", "CSS"],
       "links": {
@@ -202,14 +202,14 @@
       "name": "Simple Resume",
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/cv-fery.png",
-      "category": "Career",
+      "category": "Karir",
       "organization": "",
       "period": "2026",
-      "description": "A clean, responsive personal resume website built with Next.js, Tailwind CSS, and shadcn/ui components. Designed to be easily customizable and ready to deploy.",
+      "description": "Website riwayat hidup pribadi yang bersih dan responsif yang dibangun dengan Next.js, Tailwind CSS, dan komponen shadcn/ui. Dirancang untuk mudah dikustomisasi dan siap di-deploy.",
       "highlights": [
-        "Responsive and minimalist design with Tailwind CSS",
-        "UI components built with shadcn/ui for consistency",
-        "Easily customizable for various professional profiles"
+        "Desain responsif dan minimalis dengan Tailwind CSS",
+        "Komponen UI di-built dengan shadcn/ui untuk konsistensi",
+        "Mudah dikustomisasi untuk berbagai profil profesional"
       ],
       "tech": ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
       "links": {
@@ -224,16 +224,16 @@
       "name": "Envelope Finance",
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/envelope-dashboard.png",
-      "category": "Finance",
+      "category": "Keuangan",
       "organization": "",
       "period": "2026",
-      "description": "A personal finance management app using the envelope budgeting system. Featuring pocket-based budgeting, transaction tracking, debts/receivables management, and interactive financial reports with charts.",
+      "description": "Aplikasi manajemen keuangan pribadi menggunakan sistem envelope budgeting. Menampilkan budgeting berbasis pocket, pelacakan transaksi, manajemen hutang/piutang, dan laporan keuangan interaktif dengan chart.",
       "highlights": [
-        "Envelope budgeting system with 6 pocket types (Personal, Business, Savings, Goals, Debts, Receivables)",
-        "Inter-pocket transfer feature that keeps total balance accurate",
-        "Automated debt & receivable tracking with outstanding amount calculation",
-        "Interactive financial reports with Recharts (bar, line, pie chart)",
-        "Google OAuth authentication with NextAuth and Laravel Sanctum"
+        "Sistem envelope budgeting dengan 6 tipe pocket (Personal, Bisnis, Tabungan, Goals, Hutang, Piutang)",
+        "Fitur transfer antar pocket yang menjaga total saldo tetap akurat",
+        "Pelacakan hutang & piutang dengan outstanding amount otomatis",
+        "Laporan keuangan interaktif dengan Recharts (bar, line, pie chart)",
+        "Autentikasi Google OAuth dengan NextAuth dan Laravel Sanctum"
       ],
       "tech": [
         "Laravel",
@@ -253,14 +253,14 @@
       "name": "English Conversation Partner",
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/ecp-mazafathi.jpeg",
-      "category": "Language Learning",
+      "category": "Pembelajaran Bahasa",
       "organization": "",
       "period": "2026",
-      "description": "An AI-powered English conversation practice app that lets users interact as if speaking with a native partner. Supports both text chat and voice input, with natural text and voice responses.",
+      "description": "Aplikasi praktek percakapan Bahasa Inggris bertenaga AI yang memungkinkan pengguna untuk berinteraksi seolah-olah berbicara dengan partner asli. Mendukung input teks chat dan voice, dengan respons teks dan voice yang natural.",
       "highlights": [
-        "Conversation input via text (chat) or voice",
-        "AI responses in both text and voice (text-to-speech)",
-        "Natural two-way interaction like talking with a native speaker"
+        "Input percakapan via teks (chat) atau voice",
+        "Respons AI dalam bentuk teks dan voice (text-to-speech)",
+        "Interaksi two-way yang natural seperti berbicara dengan penutur asli"
       ],
       "tech": [
         "Next.js",
@@ -283,18 +283,18 @@
       "name": "Persil Desa",
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/persil-desa.png",
-      "category": "GIS & Mapping",
+      "category": "GIS & Pemetaan",
       "organization": "",
       "period": "2025",
-      "description": "A web-based land administration system designed to help village governments manage land ownership records, land parcels, ownership history, and spatial land data in a centralized platform. The system integrates GIS-based mapping to visualize land parcel locations and improve data accessibility, transparency, and administrative efficiency.",
+      "description": "Sistem administrasi lahan berbasis web yang dirancang untuk membantu pemerintah desa mengelola catatan kepemilikan lahan, bidang tanah, riwayat kepemilikan, dan data lahan spasial dalam satu platform terpusat. Sistem mengintegrasikan pemetaan berbasis GIS untuk memvisualisasikan lokasi bidang tanah dan meningkatkan aksesibilitas data, transparansi, dan efisiensi administratif.",
       "highlights": [
-        "Centralized management of land parcel and land owner data",
-        "Recording of ownership history and land mutations",
-        "GIS-based land parcel visualization on interactive maps",
-        "Digital management of supporting land documents",
-        "Fast land data search and validation",
-        "Administrative dashboard for village land data monitoring",
-        "OpenStreetMap and GeoJSON integration for spatial representation"
+        "Manajemen data bidang tanah dan pemilik tanah secara terpusat",
+        "Pencatatan riwayat kepemilikan dan mutasi tanah",
+        "Visualisasi bidang tanah berbasis GIS pada peta interaktif",
+        "Pengelolaan dokumen pendukung pertanahan secara digital",
+        "Pencarian dan validasi data pertanahan yang cepat",
+        "Dashboard administratif untuk monitoring data pertanahan desa",
+        "Integrasi OpenStreetMap dan GeoJSON untuk representasi spasial"
       ],
       "tech": [
         "Laravel",
