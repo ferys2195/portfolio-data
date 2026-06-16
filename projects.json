@@ -28,11 +28,11 @@
       "category": "Education",
       "organization": "Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit",
       "period": "Mar 2025 â€“ Jul 2025",
-      "description": "School management system for student placement and academic administration.",
+      "description": "Centralized school management platform that streamlines student placement, halaqah learning, and academic administration — eliminating manual record-keeping and giving parents real-time visibility into their children's progress through automated reports and notifications.",
       "highlights": [
-        "Developed a school management system for student placement and academic administration",
-        "Managed student halaqah learning activities",
-        "Impact is evident from the ease of parents in monitoring their children's academic progress through report and notification features"
+        "Automated student halaqah placement and learning activity management",
+        "Real-time academic progress reports with parent notification system",
+        "Centralized dashboard for academic administration and monitoring"
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "is_pin": true,
@@ -227,13 +227,11 @@
       "category": "Finance",
       "organization": "",
       "period": "2026",
-      "description": "A personal finance management app using the envelope budgeting system. Featuring pocket-based budgeting, transaction tracking, debts/receivables management, and interactive financial reports with charts.",
+      "description": "Digital envelope budgeting platform that helps users take control of their finances — replacing scattered spreadsheets with a structured pocket-based system, automated debt tracking, and interactive financial reports for informed decision-making.",
       "highlights": [
         "Envelope budgeting system with 6 pocket types (Personal, Business, Savings, Goals, Debts, Receivables)",
-        "Inter-pocket transfer feature that keeps total balance accurate",
         "Automated debt & receivable tracking with outstanding amount calculation",
-        "Interactive financial reports with Recharts (bar, line, pie chart)",
-        "Google OAuth authentication with NextAuth and Laravel Sanctum"
+        "Interactive financial reports with Recharts (bar, line, pie chart)"
       ],
       "tech": [
         "Laravel",
@@ -256,7 +254,7 @@
       "category": "Language Learning",
       "organization": "",
       "period": "2026",
-      "description": "An AI-powered English conversation practice app that lets users interact as if speaking with a native partner. Supports both text chat and voice input, with natural text and voice responses.",
+      "description": "Built an AI-powered English conversation platform that simulates real-life conversations through text and voice, helping learners practice speaking English anytime without requiring a tutor or language partner.",
       "highlights": [
         "Conversation input via text (chat) or voice",
         "AI responses in both text and voice (text-to-speech)",
@@ -286,15 +284,11 @@
       "category": "GIS & Mapping",
       "organization": "",
       "period": "2025",
-      "description": "A web-based land administration system designed to help village governments manage land ownership records, land parcels, ownership history, and spatial land data in a centralized platform. The system integrates GIS-based mapping to visualize land parcel locations and improve data accessibility, transparency, and administrative efficiency.",
+      "description": "Centralized land administration platform that digitizes village-level land records, ownership history, and spatial data — replacing manual paper-based systems with GIS-powered interactive maps, improving transparency and administrative efficiency for village governments.",
       "highlights": [
-        "Centralized management of land parcel and land owner data",
-        "Recording of ownership history and land mutations",
-        "GIS-based land parcel visualization on interactive maps",
-        "Digital management of supporting land documents",
-        "Fast land data search and validation",
-        "Administrative dashboard for village land data monitoring",
-        "OpenStreetMap and GeoJSON integration for spatial representation"
+        "GIS-based land parcel visualization on interactive maps (Leaflet + OpenStreetMap)",
+        "Ownership history tracking and land mutation recording",
+        "Centralized land data management with fast search and validation"
       ],
       "tech": [
         "Laravel",
@@ -308,7 +302,7 @@
         "OpenStreetMap",
         "GeoJSON"
       ],
-      "is_pin": false,
+      "is_pin": true,
       "sort_order": 14
     }
   ]

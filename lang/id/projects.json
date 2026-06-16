@@ -28,11 +28,11 @@
       "category": "Pendidikan",
       "organization": "Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit",
       "period": "Mar 2025 – Jul 2025",
-      "description": "Sistem manajemen sekolah untuk penempatan siswa dan administrasi akademik.",
+      "description": "Platform manajemen sekolah terpusat yang menyederhanakan penempatan siswa, pembelajaran halaqah, dan administrasi akademik — menghilangkan pencatatan manual dan memberi orang tua visibilitas real-time terhadap perkembangan akademik anak melalui laporan dan notifikasi otomatis.",
       "highlights": [
-        "Mengembangkan sistem manajemen sekolah untuk penempatan siswa dan administrasi akademik",
-        "Mengelola kegiatan pembelajaran halaqah siswa",
-        "Dampak terlihat dari kemudahan orang tua dalam memantau perkembangan akademik anak-anak mereka melalui fitur laporan dan notifikasi"
+        "Penempatan halaqah siswa dan manajemen kegiatan belajar otomatis",
+        "Laporan perkembangan akademik real-time dengan sistem notifikasi orang tua",
+        "Dashboard terpusat untuk administrasi dan monitoring akademik"
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "is_pin": true,
@@ -227,13 +227,11 @@
       "category": "Keuangan",
       "organization": "",
       "period": "2026",
-      "description": "Aplikasi manajemen keuangan pribadi menggunakan sistem envelope budgeting. Menampilkan budgeting berbasis pocket, pelacakan transaksi, manajemen hutang/piutang, dan laporan keuangan interaktif dengan chart.",
+      "description": "Platform envelope budgeting digital yang membantu pengguna mengendalikan keuangan pribadi — menggantikan spreadsheet yang berantakan dengan sistem pocket terstruktur, pelacakan utang otomatis, dan laporan keuangan interaktif untuk pengambilan keputusan yang lebih baik.",
       "highlights": [
         "Sistem envelope budgeting dengan 6 tipe pocket (Personal, Bisnis, Tabungan, Goals, Hutang, Piutang)",
-        "Fitur transfer antar pocket yang menjaga total saldo tetap akurat",
-        "Pelacakan hutang & piutang dengan outstanding amount otomatis",
-        "Laporan keuangan interaktif dengan Recharts (bar, line, pie chart)",
-        "Autentikasi Google OAuth dengan NextAuth dan Laravel Sanctum"
+        "Pelacakan utang & piutang otomatis dengan kalkulasi outstanding amount",
+        "Laporan keuangan interaktif dengan Recharts (bar, line, pie chart)"
       ],
       "tech": [
         "Laravel",
@@ -256,11 +254,11 @@
       "category": "Pembelajaran Bahasa",
       "organization": "",
       "period": "2026",
-      "description": "Aplikasi praktek percakapan Bahasa Inggris bertenaga AI yang memungkinkan pengguna untuk berinteraksi seolah-olah berbicara dengan partner asli. Mendukung input teks chat dan voice, dengan respons teks dan voice yang natural.",
+      "description": "Platform percakapan Bahasa Inggris bertenaga AI yang mensimulasikan percakapan nyata melalui teks dan suara, membantu pelajar berlatih berbicara kapan saja tanpa memerlukan tutor atau partner bahasa.",
       "highlights": [
-        "Input percakapan via teks (chat) atau voice",
-        "Respons AI dalam bentuk teks dan voice (text-to-speech)",
-        "Interaksi two-way yang natural seperti berbicara dengan penutur asli"
+        "Input percakapan via teks (chat) atau suara",
+        "Respons AI dalam bentuk teks dan suara (text-to-speech)",
+        "Interaksi dua arah natural seperti berbicara dengan penutur asli"
       ],
       "tech": [
         "Next.js",
@@ -286,15 +284,11 @@
       "category": "GIS & Pemetaan",
       "organization": "",
       "period": "2025",
-      "description": "Sistem administrasi lahan berbasis web yang dirancang untuk membantu pemerintah desa mengelola catatan kepemilikan lahan, bidang tanah, riwayat kepemilikan, dan data lahan spasial dalam satu platform terpusat. Sistem mengintegrasikan pemetaan berbasis GIS untuk memvisualisasikan lokasi bidang tanah dan meningkatkan aksesibilitas data, transparansi, dan efisiensi administratif.",
+      "description": "Platform administrasi pertanahan terpusat yang mendigitalisasi pencatatan lahan, riwayat kepemilikan, dan data spasial tingkat desa — menggantikan sistem manual berbasis kertas dengan peta interaktif berbasis GIS, meningkatkan transparansi dan efisiensi administrasi bagi pemerintah desa.",
       "highlights": [
-        "Manajemen data bidang tanah dan pemilik tanah secara terpusat",
+        "Visualisasi bidang tanah berbasis GIS pada peta interaktif (Leaflet + OpenStreetMap)",
         "Pencatatan riwayat kepemilikan dan mutasi tanah",
-        "Visualisasi bidang tanah berbasis GIS pada peta interaktif",
-        "Pengelolaan dokumen pendukung pertanahan secara digital",
-        "Pencarian dan validasi data pertanahan yang cepat",
-        "Dashboard administratif untuk monitoring data pertanahan desa",
-        "Integrasi OpenStreetMap dan GeoJSON untuk representasi spasial"
+        "Manajemen data pertanahan terpusat dengan pencarian dan validasi cepat"
       ],
       "tech": [
         "Laravel",
@@ -308,7 +302,7 @@
         "OpenStreetMap",
         "GeoJSON"
       ],
-      "is_pin": false,
+      "is_pin": true,
       "sort_order": 14
     }
   ]
