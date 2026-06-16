@@ -7,7 +7,7 @@
       "image": "https://ik.imagekit.io/mafhi/portfolio/ruang-ppid.png",
       "category": "Government",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
-      "period": "Sep 2025 â€“ Nov 2025",
+      "period": "Sep 2025 - Nov 2025",
       "description": "Public information service platform to support government transparency.",
       "highlights": [
         "Built a public information service platform using modern technology",
@@ -27,7 +27,7 @@
       "image": "https://ik.imagekit.io/mafhi/portfolio/app-imam-syafii.png",
       "category": "Education",
       "organization": "Yayasan Pendidikan Islam Terpadu Imam Syafii Sampit",
-      "period": "Mar 2025 â€“ Jul 2025",
+      "period": "Mar 2025 - Jul 2025",
       "description": "Centralized school management platform that streamlines student placement, halaqah learning, and academic administration — eliminating manual record-keeping and giving parents real-time visibility into their children's progress through automated reports and notifications.",
       "highlights": [
         "Automated student halaqah placement and learning activity management",
@@ -63,7 +63,7 @@
       "projectType": "client",
       "category": "Government",
       "organization": "Disdukcapil Provinsi Kalimantan Tengah",
-      "period": "Apr 2023 â€“ Jun 2023",
+      "period": "Apr 2023 - Jun 2023",
       "description": "REST API service to support government administrative applications.",
       "highlights": [
         "Built REST API services to support government administrative applications",
@@ -79,7 +79,7 @@
       "projectType": "client",
       "category": "Government",
       "organization": "Mall Pelayanan Publik Kabupaten Kotawaringin Timur",
-      "period": "Sep 2022 â€“ Dec 2022",
+      "period": "Sep 2022 - Dec 2022",
       "description": "REST API service for public service queue management system.",
       "highlights": [
         "Built REST API services for visitor queue management system",
@@ -96,7 +96,7 @@
       "image": "https://placehold.co/600x400/7c3aed/ffffff?text=Public+Information+Web+Portals",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
-      "period": "Jan 2022 â€“ May 2022",
+      "period": "Jan 2022 - May 2022",
       "description": "Rebuilt government service website using Laravel framework.",
       "highlights": [
         "Rebuilt government service website using Laravel framework",
@@ -113,7 +113,7 @@
       "image": "https://placehold.co/600x400/dc2626/ffffff?text=Public+Information+Web+Portals",
       "category": "Government",
       "organization": "DPMPTSP Kabupaten Kotawaringin Timur",
-      "period": "Sep 2019 â€“ Dec 2019",
+      "period": "Sep 2019 - Dec 2019",
       "description": "Public service web portal using Codeigniter framework.",
       "highlights": [
         "Built public service web portal using Codeigniter framework",
