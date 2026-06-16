@@ -17,7 +17,7 @@
       "links": {
         "demo": "https://ppid.disdukcapil.kalteng.go.id"
       },
-      "is_pin": true,
+      "is_pin": false,
       "sort_order": 1
     },
     {
@@ -35,8 +35,8 @@
         "Impact is evident from the ease of parents in monitoring their children's academic progress through report and notification features"
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
-      "is_pin": false,
-      "sort_order": 2
+      "is_pin": true,
+      "sort_order": 3
     },
     {
       "id": 3,
@@ -246,7 +246,7 @@
         "Framer Motion"
       ],
       "is_pin": true,
-      "sort_order": 12
+      "sort_order": 2
     },
     {
       "id": 14,
@@ -276,7 +276,7 @@
         "source": "https://github.com/ferys2195/ecp-frontend"
       },
       "is_pin": true,
-      "sort_order": 13
+      "sort_order": 2
     },
     {
       "id": 15,
