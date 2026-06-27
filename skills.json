@@ -7,22 +7,21 @@
         "Next.js",
         "Inertia.js",
         "TypeScript",
-        "JavaScript",
         "Tailwind CSS",
         "shadcn/ui"
       ]
     },
     {
       "title": "Backend",
-      "skills": ["PHP", "Laravel", "REST API Development"]
+      "skills": ["PHP", "Laravel", "REST API Development", "API Integration"]
     },
     {
       "title": "Database",
-      "skills": ["MySQL", "Relational Database Design"]
+      "skills": ["MySQL", "Database Design"]
     },
     {
-      "title": "Tools & Environment",
-      "skills": ["Git", "Linux Server", "Nginx"]
+      "title": "Deployment & Infrastructure",
+      "skills": ["Git", "Nginx", "Vercel", "Netlify", "Docker"]
     }
   ]
 }
