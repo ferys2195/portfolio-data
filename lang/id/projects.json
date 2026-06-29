@@ -1,6 +1,38 @@
 {
   "projects": [
     {
+      "id": 16,
+      "name": "GeoVertex",
+      "projectType": "personal",
+      "image": "https://ik.imagekit.io/mafhi/portfolio/geovertex.png",
+      "category": "GIS & Pemetaan",
+      "organization": "",
+      "period": "2026",
+      "description": "Platform digitasi GIS berbasis web untuk pengukuran lahan presisi, plotting geometri (polygon, polyline, rectangle), dan analisis vertex — menghadirkan kemampuan desktop GIS ke dalam browser dengan antarmuka modern dan ringan.",
+      "highlights": [
+        "Alat gambar interaktif untuk polygon, polyline, rectangle & marker via Geoman",
+        "Sistem grid UTM (WGS 84) dengan konverter koordinat untuk pengukuran lahan",
+        "Import/export GeoJSON untuk pertukaran data dengan tools GIS lainnya",
+        "UI modern dan responsif dengan kalkulasi luas dan jarak secara real-time"
+      ],
+      "tech": [
+        "Next.js",
+        "React 19",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Leaflet",
+        "Geoman",
+        "Framer Motion"
+      ],
+      "links": {
+        "demo": "https://geovertex.mazafathi.com/",
+        "source": "https://github.com/ferys2195/geovertex"
+      },
+      "is_pin": true,
+      "sort_order": 1
+    },
+    {
       "id": 1,
       "name": "Web Ruang PPID",
       "projectType": "client",
