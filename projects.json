@@ -303,7 +303,10 @@
         "GeoJSON"
       ],
       "is_pin": true,
-      "sort_order": 2
+      "sort_order": 2,
+      "links": {
+        "demo": "https://persil.mazafathi.com"
+      }
     }
   ]
 }
