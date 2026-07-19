@@ -276,7 +276,10 @@
         "Framer Motion"
       ],
       "is_pin": true,
-      "sort_order": 4
+      "sort_order": 4,
+      "links": {
+        "demo": "https://envelope.mazafathi.com"
+      }
     },
     {
       "id": 14,
