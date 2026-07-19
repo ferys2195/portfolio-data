@@ -30,7 +30,7 @@
         "source": "https://github.com/ferys2195/geovertex"
       },
       "is_pin": true,
-      "sort_order": 1
+      "sort_order": 3
     },
     {
       "id": 1,
@@ -68,7 +68,7 @@
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "is_pin": true,
-      "sort_order": 3
+      "sort_order": 1
     },
     {
       "id": 3,
@@ -276,7 +276,7 @@
         "Framer Motion"
       ],
       "is_pin": true,
-      "sort_order": 2
+      "sort_order": 4
     },
     {
       "id": 14,
@@ -306,7 +306,7 @@
         "source": "https://github.com/ferys2195/ecp-frontend"
       },
       "is_pin": true,
-      "sort_order": 2
+      "sort_order": 5
     },
     {
       "id": 15,
@@ -314,7 +314,7 @@
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/persil-desa.png",
       "category": "GIS & Mapping",
-      "organization": "",
+      "organization": "Pemerintah Desa Pamalian",
       "period": "2025",
       "description": "Centralized land administration platform that digitizes village-level land records, ownership history, and spatial data — replacing manual paper-based systems with GIS-powered interactive maps, improving transparency and administrative efficiency for village governments.",
       "highlights": [
@@ -329,13 +329,13 @@
         "TypeScript",
         "Shadcn UI",
         "Tailwind CSS",
-        "MySQL",
+        "PostgreSQL",
         "Leaflet",
         "OpenStreetMap",
         "GeoJSON"
       ],
       "is_pin": true,
-      "sort_order": 14
+      "sort_order": 2
     }
   ]
 }

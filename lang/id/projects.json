@@ -30,7 +30,7 @@
         "source": "https://github.com/ferys2195/geovertex"
       },
       "is_pin": true,
-      "sort_order": 1
+      "sort_order": 3
     },
     {
       "id": 1,
@@ -68,7 +68,7 @@
       ],
       "tech": ["Laravel", "MySQL", "Inertia.js", "React.js", "Tailwind CSS"],
       "is_pin": true,
-      "sort_order": 3
+      "sort_order": 1
     },
     {
       "id": 3,
@@ -276,7 +276,7 @@
         "Framer Motion"
       ],
       "is_pin": true,
-      "sort_order": 2
+      "sort_order": 4
     },
     {
       "id": 14,
@@ -306,7 +306,7 @@
         "source": "https://github.com/ferys2195/ecp-frontend"
       },
       "is_pin": true,
-      "sort_order": 2
+      "sort_order": 5
     },
     {
       "id": 15,
@@ -314,7 +314,7 @@
       "projectType": "personal",
       "image": "https://ik.imagekit.io/mafhi/portfolio/persil-desa.png",
       "category": "GIS & Pemetaan",
-      "organization": "",
+      "organization": "Pemerintah Desa Pamalian",
       "period": "2025",
       "description": "Platform administrasi pertanahan terpusat yang mendigitalisasi pencatatan lahan, riwayat kepemilikan, dan data spasial tingkat desa — menggantikan sistem manual berbasis kertas dengan peta interaktif berbasis GIS, meningkatkan transparansi dan efisiensi administrasi bagi pemerintah desa.",
       "highlights": [
@@ -329,13 +329,16 @@
         "TypeScript",
         "Shadcn UI",
         "Tailwind CSS",
-        "MySQL",
+        "PostgreSQL",
         "Leaflet",
         "OpenStreetMap",
         "GeoJSON"
       ],
       "is_pin": true,
-      "sort_order": 14
+      "sort_order": 2,
+      "links": {
+        "demo": "https://persil.mazafathi.com"
+      }
     }
   ]
 }
