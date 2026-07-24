@@ -30,7 +30,7 @@
         "source": "https://github.com/ferys2195/geovertex"
       },
       "is_pin": true,
-      "sort_order": 3
+      "sort_order": 9
     },
     {
       "id": 1,
@@ -193,19 +193,34 @@
       "category": "GIS & Pemetaan",
       "organization": "",
       "period": "2026",
-      "description": "Utilitas berbasis web untuk melihat file GPX, mengelola waypoint, dan mengukur luas lahan. Mendukung penempatan marker interaktif dan input koordinat UTM – seperti MapSource, tetapi di web.",
+      "description": "Utilitas GIS berbasis web untuk melihat file GPX, mengelola waypoint, mengukur luas permukaan, dan mengekspor PDF kartografis dengan layout grid UTM. Mendukung alat gambar interaktif, konversi koordinat, serta impor/ekspor GPX yang mulus.",
       "highlights": [
-        "Peta interaktif untuk visualisasi GPX tracks & waypoints",
-        "Pengukuran luas lahan dengan kalkulasi koordinat UTM",
-        "Penempatan marker interaktif untuk input data spasial"
+        "Memuat dan memvisualisasikan track, rute, dan waypoint GPX pada peta interaktif",
+        "Mengonversi dan menampilkan koordinat dalam format UTM serta lintang/bujur",
+        "Mengukur poligon dan mengekspor peta PDF siap cetak dengan layout grid UTM",
+        "Mengelola waypoint serta menggambar/mengedit layer vektor dengan Leaflet Geoman"
       ],
-      "tech": ["TypeScript", "React", "Leaflet", "CSS"],
+      "tech": [
+        "React 19",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Leaflet",
+        "React-Leaflet",
+        "Leaflet Geoman",
+        "jsPDF",
+        "Turf.js",
+        "Proj4",
+        "Zustand",
+        "Radix UI",
+        "Lucide React"
+      ],
       "links": {
-        "demo": "https://gpx-tool.vercel.app",
+        "demo": "https://gpx-tool.mazafathi.com",
         "source": "https://github.com/ferys2195/gpx-tool"
       },
-      "is_pin": false,
-      "sort_order": 9
+      "is_pin": true,
+      "sort_order": 3
     },
     {
       "id": 11,

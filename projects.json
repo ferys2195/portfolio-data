@@ -161,19 +161,34 @@
       "category": "GIS & Mapping",
       "organization": "",
       "period": "2026",
-      "description": "A web-based utility for viewing GPX files, managing waypoints, and measuring land area. Supports interactive marker placement and UTM coordinate input â€” like MapSource, but on the web.",
+      "description": "A web-based GIS utility for viewing GPX files, managing waypoints, measuring surface area, and exporting cartographic PDFs with UTM grid layouts. Supports interactive drawing tools, coordinate conversion, and seamless GPX import/export.",
       "highlights": [
-        "Interactive map for GPX tracks & waypoints visualization",
-        "Land area measurement with UTM coordinate calculation",
-        "Interactive marker placement for spatial data input"
+        "Load and visualize GPX tracks, routes, and waypoints on an interactive map",
+        "Convert and display coordinates in UTM and latitude/longitude formats",
+        "Measure polygons and export print-ready PDF maps with UTM grid layouts",
+        "Manage waypoints and draw/edit vector layers with Leaflet Geoman"
       ],
-      "tech": ["TypeScript", "React", "Leaflet", "CSS"],
+      "tech": [
+        "React 19",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Leaflet",
+        "React-Leaflet",
+        "Leaflet Geoman",
+        "jsPDF",
+        "Turf.js",
+        "Proj4",
+        "Zustand",
+        "Radix UI",
+        "Lucide React"
+      ],
       "links": {
-        "demo": "https://gpx-tool.vercel.app",
+        "demo": "https://gpx-tool.mazafathi.com",
         "source": "https://github.com/ferys2195/gpx-tool"
       },
-      "is_pin": false,
-      "sort_order": 9
+      "is_pin": true,
+      "sort_order": 3
     },
     {
       "id": 11,
