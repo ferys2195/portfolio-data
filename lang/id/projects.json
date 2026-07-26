@@ -8,29 +8,34 @@
       "category": "GIS & Pemetaan",
       "organization": "",
       "period": "2026",
-      "description": "Platform digitasi GIS berbasis web untuk pengukuran lahan presisi, plotting geometri (polygon, polyline, rectangle), dan analisis vertex — menghadirkan kemampuan desktop GIS ke dalam browser dengan antarmuka modern dan ringan.",
+      "description": "Platform SaaS GIS cloud-native untuk mendigitasi bidang tanah, mengedit koordinat vertex dengan presisi milimeter, mengonversi WGS84 Lat/Lng ke UTM secara real time, dan menghasilkan laporan peta PDF kartografis resmi.",
       "highlights": [
-        "Alat gambar interaktif untuk polygon, polyline, rectangle & marker via Geoman",
-        "Sistem grid UTM (WGS 84) dengan konverter koordinat untuk pengukuran lahan",
-        "Import/export GeoJSON untuk pertukaran data dengan tools GIS lainnya",
-        "UI modern dan responsif dengan kalkulasi luas dan jarak secara real-time"
+        "Mendigitasi poligon dan jalur tanah dengan pengeditan vertex interaktif dan kontrol koordinat presisi",
+        "Mengonversi secara instan antara lintang/bujur WGS84 dan koordinat UTM",
+        "Mengekspor laporan peta PDF kartografis resmi dengan border grid UTM, panah utara, legenda, dan tabel koordinat vertex",
+        "Berkolaborasi dalam workspace cloud dengan penyimpanan Supabase PostGIS dan kontrol akses berbasis peran"
       ],
       "tech": [
-        "Next.js",
+        "Next.js 16",
         "React 19",
         "TypeScript",
-        "Tailwind CSS",
+        "Tailwind CSS v4",
         "shadcn/ui",
         "Leaflet",
-        "Geoman",
-        "Framer Motion"
+        "Leaflet Geoman",
+        "Supabase",
+        "PostgreSQL",
+        "PostGIS",
+        "jsPDF",
+        "html2canvas",
+        "Lucide Icons"
       ],
       "links": {
         "demo": "https://geovertex.mazafathi.com/",
         "source": "https://github.com/ferys2195/geovertex"
       },
       "is_pin": true,
-      "sort_order": 9
+      "sort_order": 2
     },
     {
       "id": 1,
@@ -353,7 +358,7 @@
         "GeoJSON"
       ],
       "is_pin": true,
-      "sort_order": 2,
+      "sort_order": 9,
       "links": {
         "demo": "https://persil.mazafathi.com"
       }
