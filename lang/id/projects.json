@@ -38,6 +38,39 @@
       "sort_order": 2
     },
     {
+      "id": 17,
+      "name": "Generator RAB RKPDes & APBDes",
+      "projectType": "personal",
+      "image": "https://ik.imagekit.io/mafhi/portfolio/generator-rab.png",
+      "category": "Pemerintahan",
+      "organization": "",
+      "period": "2026",
+      "description": "Aplikasi web generator Rencana Anggaran Biaya (RAB) RKPDes dan APBDes berbasis standarisasi Kode Rekening Desa & Permendagri No. 20/2018, dilengkapi fitur kalkulasi pagu otomatis, ekspor dokumen PDF/Excel resmi, serta manajemen tanda tangan dan stempel digital.",
+      "highlights": [
+        "Menyusun hierarki RAB desa secara terstruktur (Bidang, Sub-Bidang, Kegiatan, Belanja, dan Rincian Objek) sesuai standar Permendagri No. 20/2018",
+        "Otomatisasi kalkulasi pagu anggaran belanja dan validasi selisih defisit/surplus secara real time",
+        "Mengekspor dokumen cetak format resmi ke PDF (jsPDF-AutoTable) dan spreadsheet Excel (.xlsx)",
+        "Integrasi pratinjau tanda tangan digital pejabat desa (Kepala Desa & Kaur Keuangan) beserta stempel dinas interaktif"
+      ],
+      "tech": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Tailwind CSS v4",
+        "shadcn/ui",
+        "Zustand",
+        "jsPDF",
+        "jsPDF-AutoTable",
+        "xlsx",
+        "Lucide Icons"
+      ],
+      "links": {
+        "demo": "https://generator-rab-rkpdes-apbdes.vercel.app/"
+      },
+      "is_pin": true,
+      "sort_order": 3
+    },
+    {
       "id": 1,
       "name": "Web Ruang PPID",
       "projectType": "client",

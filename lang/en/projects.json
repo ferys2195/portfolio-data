@@ -38,6 +38,39 @@
       "sort_order": 2
     },
     {
+      "id": 17,
+      "name": "Generator RAB RKPDes & APBDes",
+      "projectType": "personal",
+      "image": "https://ik.imagekit.io/mafhi/portfolio/generator-rab.png",
+      "category": "Government",
+      "organization": "",
+      "period": "2026",
+      "description": "A web application for generating Village Budget & Cost Estimation Plans (RAB RKPDes & APBDes) based on Permendagri No. 20/2018 account code standards, featuring automated budget calculation, official PDF/Excel report export, and digital signature positioning.",
+      "highlights": [
+        "Structured village budget (RAB) hierarchy builder compliant with Permendagri No. 20/2018 regulations",
+        "Real-time automated budget ceiling calculation and surplus/deficit validation",
+        "Official document export supporting customized PDF formats (jsPDF-AutoTable) and Excel spreadsheets (.xlsx)",
+        "Digital signature and official stamp positioning controls for village governance approvals"
+      ],
+      "tech": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Tailwind CSS v4",
+        "shadcn/ui",
+        "Zustand",
+        "jsPDF",
+        "jsPDF-AutoTable",
+        "xlsx",
+        "Lucide Icons"
+      ],
+      "links": {
+        "demo": "https://generator-rab-rkpdes-apbdes.vercel.app/"
+      },
+      "is_pin": true,
+      "sort_order": 3
+    },
+    {
       "id": 1,
       "name": "Web Ruang PPID",
       "projectType": "client",
